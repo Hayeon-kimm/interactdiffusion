@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
+# HERE
 import torch
 from transformers import CLIPProcessor, CLIPModel
 import json

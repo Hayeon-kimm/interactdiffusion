@@ -4,3 +4,4 @@
 2. Download the SD-v1-4.ckpt from [huggingface](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/blob/main/sd-v1-4.ckpt).
 3. Optional: Download SD v1.5 at [here](https://huggingface.co/runwayml/stable-diffusion-v1-5)
 
+* hico_det_clip_sg3 + hico_det_sg pretrained weight : Download [here](https://drive.google.com/drive/folders/1aBbPylciDnps_1pC4xz9d9SxWxs0XTG3) 
